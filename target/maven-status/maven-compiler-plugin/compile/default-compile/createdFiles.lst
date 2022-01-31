@@ -1,0 +1,4 @@
+com\mahmoud\bank\accounts\controller\AccountController.class
+com\mahmoud\bank\accounts\entity\Account.class
+com\mahmoud\bank\accounts\AccountsApplication.class
+com\mahmoud\bank\accounts\repo\AccountRepository.class

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.mahmoud.bank.accounts.AccountsApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 16.702 s - in com.mahmoud.bank.accounts.AccountsApplicationTests
